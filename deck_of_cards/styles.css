@@ -1,0 +1,16 @@
+
+.cards{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+}
+
+
+.cards img {
+    margin: 0 auto;
+    width:200px; 
+    position:absolute; 
+    top: 25%;
+
+}
